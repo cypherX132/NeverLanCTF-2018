@@ -1,3 +1,6 @@
+#python3
+#created by ScriptBaby for NeverLanCTF 2018
+
 import re
 string = open("numbers.txt","r").read()
 total = 0
