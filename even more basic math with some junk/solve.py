@@ -1,4 +1,4 @@
-#python3
+#!/usr/bin/env python3
 #created by ScriptBaby for NeverLanCTF 2018
 
 import re
